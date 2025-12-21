@@ -1,0 +1,35 @@
+{
+  "name": "precodahora-ba",
+  "version": "1.0.0",
+  "description": "Cliente não-oficial para consulta de preços do Preço da Hora Bahia",
+  "keywords": [
+    "precodahora-ba",
+    "preco-da-hora",
+    "preco-da-hora-ba",
+    "bahia",
+    "scraping",
+    "api-client",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/kdudev/precodahora-ba#readme",
+  "bugs": {
+    "url": "https://github.com/kdudev/precodahora-ba/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdudev/precodahora-ba.git"
+  },
+  "license": "MIT",
+  "author": "kdudev",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "node-html-parser": "^7.0.1",
+    "tough-cookie": "^6.0.0",
+    "useragent-from-seed": "^1.0.1"
+  }
+}
