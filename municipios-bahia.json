@@ -1,0 +1,2504 @@
+[
+    {
+        "codigoIBGE": 2900207,
+        "localidade": "ABARÉ",
+        "latitude": -8.7211515,
+        "longitude": -39.1165305
+    },
+    {
+        "codigoIBGE": 2900108,
+        "localidade": "ABAÍRA",
+        "latitude": -13.2782057,
+        "longitude": -41.7407394
+    },
+    {
+        "codigoIBGE": 2900306,
+        "localidade": "ACAJUTIBA",
+        "latitude": -11.6651592,
+        "longitude": -38.0193981
+    },
+    {
+        "codigoIBGE": 2900355,
+        "localidade": "ADUSTINA",
+        "latitude": -10.5358815,
+        "longitude": -38.1153843
+    },
+    {
+        "codigoIBGE": 2900603,
+        "localidade": "AIQUARA",
+        "latitude": -14.1273724,
+        "longitude": -39.8940191
+    },
+    {
+        "codigoIBGE": 2900702,
+        "localidade": "ALAGOINHAS",
+        "latitude": -12.1339689,
+        "longitude": -38.4211223
+    },
+    {
+        "codigoIBGE": 2900801,
+        "localidade": "ALCOBAÇA",
+        "latitude": -17.5277794,
+        "longitude": -39.1921031
+    },
+    {
+        "codigoIBGE": 2900900,
+        "localidade": "ALMADINA",
+        "latitude": -14.7093276,
+        "longitude": -39.6418557
+    },
+    {
+        "codigoIBGE": 2901007,
+        "localidade": "AMARGOSA",
+        "latitude": -13.0297318,
+        "longitude": -39.60207
+    },
+    {
+        "codigoIBGE": 2901106,
+        "localidade": "AMÉLIA RODRIGUES",
+        "latitude": -12.3961612,
+        "longitude": -38.758604
+    },
+    {
+        "codigoIBGE": 2901155,
+        "localidade": "AMÉRICA DOURADA",
+        "latitude": -11.4537072,
+        "longitude": -41.4370659
+    },
+    {
+        "codigoIBGE": 2901205,
+        "localidade": "ANAGÉ",
+        "latitude": -14.6160299,
+        "longitude": -41.1369088
+    },
+    {
+        "codigoIBGE": 2901304,
+        "localidade": "ANDARAÍ",
+        "latitude": -12.8053595,
+        "longitude": -41.3300344
+    },
+    {
+        "codigoIBGE": 2901353,
+        "localidade": "ANDORINHA",
+        "latitude": -10.3449752,
+        "longitude": -39.8293361
+    },
+    {
+        "codigoIBGE": 2901403,
+        "localidade": "ANGICAL",
+        "latitude": -12.0067465,
+        "longitude": -44.7006753
+    },
+    {
+        "codigoIBGE": 2901502,
+        "localidade": "ANGUERA",
+        "latitude": -12.152407,
+        "longitude": -39.2447594
+    },
+    {
+        "codigoIBGE": 2901601,
+        "localidade": "ANTAS",
+        "latitude": -10.4108212,
+        "longitude": -38.3302662
+    },
+    {
+        "codigoIBGE": 2901700,
+        "localidade": "ANTÔNIO CARDOSO",
+        "latitude": -12.4339371,
+        "longitude": -39.1179118
+    },
+    {
+        "codigoIBGE": 2901809,
+        "localidade": "ANTÔNIO GONÇALVES",
+        "latitude": -10.5771157,
+        "longitude": -40.2788535
+    },
+    {
+        "codigoIBGE": 2901908,
+        "localidade": "APORÁ",
+        "latitude": -11.658109,
+        "longitude": -38.0715385
+    },
+    {
+        "codigoIBGE": 2901957,
+        "localidade": "APUAREMA",
+        "latitude": -13.8546938,
+        "longitude": -39.7505124
+    },
+    {
+        "codigoIBGE": 2902005,
+        "localidade": "ARACATU",
+        "latitude": -14.428559,
+        "longitude": -41.4655166
+    },
+    {
+        "codigoIBGE": 2902104,
+        "localidade": "ARACI",
+        "latitude": -11.3393448,
+        "longitude": -38.9586018
+    },
+    {
+        "codigoIBGE": 2902203,
+        "localidade": "ARAMARI",
+        "latitude": -12.0888414,
+        "longitude": -38.4972879
+    },
+    {
+        "codigoIBGE": 2902252,
+        "localidade": "ARATACA",
+        "latitude": -15.2655616,
+        "longitude": -39.4193808
+    },
+    {
+        "codigoIBGE": 2902302,
+        "localidade": "ARATUÍPE",
+        "latitude": -13.0778083,
+        "longitude": -39.0008944
+    },
+    {
+        "codigoIBGE": 2902054,
+        "localidade": "ARAÇÁS",
+        "latitude": -12.2114157,
+        "longitude": -38.2035232
+    },
+    {
+        "codigoIBGE": 2902401,
+        "localidade": "AURELINO LEAL",
+        "latitude": -14.3214105,
+        "longitude": -39.3293965
+    },
+    {
+        "codigoIBGE": 2902500,
+        "localidade": "BAIANÓPOLIS",
+        "latitude": -12.6593306,
+        "longitude": -44.3996944
+    },
+    {
+        "codigoIBGE": 2902609,
+        "localidade": "BAIXA GRANDE",
+        "latitude": -11.9600827,
+        "longitude": -40.1679247
+    },
+    {
+        "codigoIBGE": 2902658,
+        "localidade": "BANZAÊ",
+        "latitude": -10.5829269,
+        "longitude": -38.6124429
+    },
+    {
+        "codigoIBGE": 2902708,
+        "localidade": "BARRA",
+        "latitude": -11.0897577,
+        "longitude": -43.1390524
+    },
+    {
+        "codigoIBGE": 2902807,
+        "localidade": "BARRA DA ESTIVA",
+        "latitude": -13.6241479,
+        "longitude": -41.3350749
+    },
+    {
+        "codigoIBGE": 2902906,
+        "localidade": "BARRA DO CHOÇA",
+        "latitude": -14.8659489,
+        "longitude": -40.5778538
+    },
+    {
+        "codigoIBGE": 2903003,
+        "localidade": "BARRA DO MENDES",
+        "latitude": -11.8079608,
+        "longitude": -42.0577909
+    },
+    {
+        "codigoIBGE": 2903102,
+        "localidade": "BARRA DO ROCHA",
+        "latitude": -14.206624,
+        "longitude": -39.6032544
+    },
+    {
+        "codigoIBGE": 2903201,
+        "localidade": "BARREIRAS",
+        "latitude": -12.1477483,
+        "longitude": -44.9953475
+    },
+    {
+        "codigoIBGE": 2903235,
+        "localidade": "BARRO ALTO",
+        "latitude": -11.7609288,
+        "longitude": -41.9058208
+    },
+    {
+        "codigoIBGE": 2903300,
+        "localidade": "BARRO PRETO",
+        "latitude": -14.7952324,
+        "longitude": -39.4763925
+    },
+    {
+        "codigoIBGE": 2903276,
+        "localidade": "BARROCAS",
+        "latitude": -11.5304158,
+        "longitude": -39.0790823
+    },
+    {
+        "codigoIBGE": 2903409,
+        "localidade": "BELMONTE",
+        "latitude": -15.8612314,
+        "longitude": -38.8798207
+    },
+    {
+        "codigoIBGE": 2903508,
+        "localidade": "BELO CAMPO",
+        "latitude": -15.0378169,
+        "longitude": -41.2587906
+    },
+    {
+        "codigoIBGE": 2903607,
+        "localidade": "BIRITINGA",
+        "latitude": -11.622673,
+        "longitude": -38.8066816
+    },
+    {
+        "codigoIBGE": 2903706,
+        "localidade": "BOA NOVA",
+        "latitude": -14.3655932,
+        "longitude": -40.2075859
+    },
+    {
+        "codigoIBGE": 2903805,
+        "localidade": "BOA VISTA DO TUPIM",
+        "latitude": -12.6595387,
+        "longitude": -40.6050481
+    },
+    {
+        "codigoIBGE": 2903904,
+        "localidade": "BOM JESUS DA LAPA",
+        "latitude": -13.2521231,
+        "longitude": -43.4172303
+    },
+    {
+        "codigoIBGE": 2903953,
+        "localidade": "BOM JESUS DA SERRA",
+        "latitude": -14.3739622,
+        "longitude": -40.5054759
+    },
+    {
+        "codigoIBGE": 2904001,
+        "localidade": "BONINAL",
+        "latitude": -12.7098921,
+        "longitude": -41.83097
+    },
+    {
+        "codigoIBGE": 2904050,
+        "localidade": "BONITO",
+        "latitude": -11.967206,
+        "longitude": -41.2650727
+    },
+    {
+        "codigoIBGE": 2904100,
+        "localidade": "BOQUIRA",
+        "latitude": -12.8209777,
+        "longitude": -42.7327424
+    },
+    {
+        "codigoIBGE": 2904209,
+        "localidade": "BOTUPORÃ",
+        "latitude": -13.3776805,
+        "longitude": -42.5166884
+    },
+    {
+        "codigoIBGE": 2904407,
+        "localidade": "BREJOLÂNDIA",
+        "latitude": -12.483713,
+        "longitude": -43.9614331
+    },
+    {
+        "codigoIBGE": 2904308,
+        "localidade": "BREJÕES",
+        "latitude": -13.0993501,
+        "longitude": -39.7935658
+    },
+    {
+        "codigoIBGE": 2904506,
+        "localidade": "BROTAS DE MACAÚBAS",
+        "latitude": -12.0011499,
+        "longitude": -42.6303208
+    },
+    {
+        "codigoIBGE": 2904605,
+        "localidade": "BRUMADO",
+        "latitude": -14.2025791,
+        "longitude": -41.6699736
+    },
+    {
+        "codigoIBGE": 2904704,
+        "localidade": "BUERAREMA",
+        "latitude": -14.9599578,
+        "longitude": -39.3032114
+    },
+    {
+        "codigoIBGE": 2904753,
+        "localidade": "BURITIRAMA",
+        "latitude": -10.7170152,
+        "longitude": -43.6311936
+    },
+    {
+        "codigoIBGE": 2904803,
+        "localidade": "CAATIBA",
+        "latitude": -14.9703131,
+        "longitude": -40.409528
+    },
+    {
+        "codigoIBGE": 2904852,
+        "localidade": "CABACEIRAS DO PARAGUAÇU",
+        "latitude": -12.5392839,
+        "longitude": -39.1884171
+    },
+    {
+        "codigoIBGE": 2904902,
+        "localidade": "CACHOEIRA",
+        "latitude": -12.6009889,
+        "longitude": -38.9659394
+    },
+    {
+        "codigoIBGE": 2905008,
+        "localidade": "CACULÉ",
+        "latitude": -14.4974525,
+        "longitude": -42.2236477
+    },
+    {
+        "codigoIBGE": 2905156,
+        "localidade": "CAETANOS",
+        "latitude": -14.3368001,
+        "longitude": -40.9095911
+    },
+    {
+        "codigoIBGE": 2905206,
+        "localidade": "CAETITÉ",
+        "latitude": -14.0648657,
+        "longitude": -42.4858866
+    },
+    {
+        "codigoIBGE": 2905305,
+        "localidade": "CAFARNAUM",
+        "latitude": -11.6918349,
+        "longitude": -41.4691991
+    },
+    {
+        "codigoIBGE": 2905404,
+        "localidade": "CAIRU",
+        "latitude": -13.4908284,
+        "longitude": -39.0468827
+    },
+    {
+        "codigoIBGE": 2905503,
+        "localidade": "CALDEIRÃO GRANDE",
+        "latitude": -11.0212955,
+        "longitude": -40.3042406
+    },
+    {
+        "codigoIBGE": 2905602,
+        "localidade": "CAMACAN",
+        "latitude": -15.4201038,
+        "longitude": -39.4964036
+    },
+    {
+        "codigoIBGE": 2905800,
+        "localidade": "CAMAMU",
+        "latitude": -13.9439676,
+        "longitude": -39.1050204
+    },
+    {
+        "codigoIBGE": 2905701,
+        "localidade": "CAMAÇARI",
+        "latitude": -12.6971776,
+        "longitude": -38.3331983
+    },
+    {
+        "codigoIBGE": 2905909,
+        "localidade": "CAMPO ALEGRE DE LOURDES",
+        "latitude": -9.5185971,
+        "longitude": -43.0121687
+    },
+    {
+        "codigoIBGE": 2906006,
+        "localidade": "CAMPO FORMOSO",
+        "latitude": -10.5077925,
+        "longitude": -40.3230885
+    },
+    {
+        "codigoIBGE": 2906204,
+        "localidade": "CANARANA",
+        "latitude": -11.6862665,
+        "longitude": -41.7680836
+    },
+    {
+        "codigoIBGE": 2906303,
+        "localidade": "CANAVIEIRAS",
+        "latitude": -15.6773461,
+        "longitude": -38.9451874
+    },
+    {
+        "codigoIBGE": 2906402,
+        "localidade": "CANDEAL",
+        "latitude": -11.8052907,
+        "longitude": -39.120633
+    },
+    {
+        "codigoIBGE": 2906501,
+        "localidade": "CANDEIAS",
+        "latitude": -12.6869653,
+        "longitude": -38.4639631
+    },
+    {
+        "codigoIBGE": 2906600,
+        "localidade": "CANDIBA",
+        "latitude": -14.4101896,
+        "longitude": -42.867086
+    },
+    {
+        "codigoIBGE": 2906808,
+        "localidade": "CANSANÇÃO",
+        "latitude": -10.6678189,
+        "longitude": -39.4964517
+    },
+    {
+        "codigoIBGE": 2906824,
+        "localidade": "CANUDOS",
+        "latitude": -9.8962125,
+        "longitude": -39.028593
+    },
+    {
+        "codigoIBGE": 2906105,
+        "localidade": "CANÁPOLIS",
+        "latitude": -13.072895,
+        "longitude": -44.2013499
+    },
+    {
+        "codigoIBGE": 2906857,
+        "localidade": "CAPELA DO ALTO ALEGRE",
+        "latitude": -11.668482,
+        "longitude": -39.8367966
+    },
+    {
+        "codigoIBGE": 2906873,
+        "localidade": "CAPIM GROSSO",
+        "latitude": -11.3801768,
+        "longitude": -40.0068953
+    },
+    {
+        "codigoIBGE": 2906907,
+        "localidade": "CARAVELAS",
+        "latitude": -17.7337668,
+        "longitude": -39.2652781
+    },
+    {
+        "codigoIBGE": 2906899,
+        "localidade": "CARAÍBAS",
+        "latitude": -14.7245483,
+        "longitude": -41.2575973
+    },
+    {
+        "codigoIBGE": 2907004,
+        "localidade": "CARDEAL DA SILVA",
+        "latitude": -11.9476332,
+        "longitude": -37.9472508
+    },
+    {
+        "codigoIBGE": 2907103,
+        "localidade": "CARINHANHA",
+        "latitude": -14.3024774,
+        "longitude": -43.76801
+    },
+    {
+        "codigoIBGE": 2907202,
+        "localidade": "CASA NOVA",
+        "latitude": -9.1756049,
+        "longitude": -40.973453
+    },
+    {
+        "codigoIBGE": 2907301,
+        "localidade": "CASTRO ALVES",
+        "latitude": -12.7630815,
+        "longitude": -39.4297707
+    },
+    {
+        "codigoIBGE": 2907400,
+        "localidade": "CATOLÂNDIA",
+        "latitude": -12.3104482,
+        "longitude": -44.8652131
+    },
+    {
+        "codigoIBGE": 2907509,
+        "localidade": "CATU",
+        "latitude": -12.3713805,
+        "longitude": -38.3852123
+    },
+    {
+        "codigoIBGE": 2907558,
+        "localidade": "CATURAMA",
+        "latitude": -13.3298902,
+        "longitude": -42.2909391
+    },
+    {
+        "codigoIBGE": 2905107,
+        "localidade": "CAÉM",
+        "latitude": -11.0681259,
+        "longitude": -40.4324054
+    },
+    {
+        "codigoIBGE": 2907608,
+        "localidade": "CENTRAL",
+        "latitude": -11.1354374,
+        "longitude": -42.1114915
+    },
+    {
+        "codigoIBGE": 2907707,
+        "localidade": "CHORROCHÓ",
+        "latitude": -8.9699174,
+        "longitude": -39.0982946
+    },
+    {
+        "codigoIBGE": 2907905,
+        "localidade": "CIPÓ",
+        "latitude": -11.0997707,
+        "longitude": -38.5146001
+    },
+    {
+        "codigoIBGE": 2908002,
+        "localidade": "COARACI",
+        "latitude": -14.6374543,
+        "longitude": -39.555973
+    },
+    {
+        "codigoIBGE": 2908101,
+        "localidade": "COCOS",
+        "latitude": -14.1818073,
+        "longitude": -44.5356256
+    },
+    {
+        "codigoIBGE": 2908200,
+        "localidade": "CONCEIÇÃO DA FEIRA",
+        "latitude": -12.5082797,
+        "longitude": -38.9981789
+    },
+    {
+        "codigoIBGE": 2908309,
+        "localidade": "CONCEIÇÃO DO ALMEIDA",
+        "latitude": -12.7745383,
+        "longitude": -39.17081
+    },
+    {
+        "codigoIBGE": 2908408,
+        "localidade": "CONCEIÇÃO DO COITÉ",
+        "latitude": -11.5634718,
+        "longitude": -39.2838986
+    },
+    {
+        "codigoIBGE": 2908507,
+        "localidade": "CONCEIÇÃO DO JACUÍPE",
+        "latitude": -12.3305286,
+        "longitude": -38.7670993
+    },
+    {
+        "codigoIBGE": 2908606,
+        "localidade": "CONDE",
+        "latitude": -11.814904,
+        "longitude": -37.6140253
+    },
+    {
+        "codigoIBGE": 2908705,
+        "localidade": "CONDEÚBA",
+        "latitude": -14.9026831,
+        "longitude": -41.9722144
+    },
+    {
+        "codigoIBGE": 2908804,
+        "localidade": "CONTENDAS DO SINCORÁ",
+        "latitude": -13.7541402,
+        "longitude": -41.0483285
+    },
+    {
+        "codigoIBGE": 2908903,
+        "localidade": "CORAÇÃO DE MARIA",
+        "latitude": -12.2479074,
+        "longitude": -38.7483105
+    },
+    {
+        "codigoIBGE": 2909000,
+        "localidade": "CORDEIROS",
+        "latitude": -15.0378014,
+        "longitude": -41.9346814
+    },
+    {
+        "codigoIBGE": 2909109,
+        "localidade": "CORIBE",
+        "latitude": -13.8236612,
+        "longitude": -44.4589973
+    },
+    {
+        "codigoIBGE": 2909208,
+        "localidade": "CORONEL JOÃO SÁ",
+        "latitude": -10.2862492,
+        "longitude": -37.9251814
+    },
+    {
+        "codigoIBGE": 2909307,
+        "localidade": "CORRENTINA",
+        "latitude": -13.3425542,
+        "longitude": -44.6357227
+    },
+    {
+        "codigoIBGE": 2909406,
+        "localidade": "COTEGIPE",
+        "latitude": -12.029221,
+        "longitude": -44.2590312
+    },
+    {
+        "codigoIBGE": 2909505,
+        "localidade": "CRAVOLÂNDIA",
+        "latitude": -13.3590601,
+        "longitude": -39.8153629
+    },
+    {
+        "codigoIBGE": 2909703,
+        "localidade": "CRISTÓPOLIS",
+        "latitude": -12.1739904,
+        "longitude": -44.2857937
+    },
+    {
+        "codigoIBGE": 2909604,
+        "localidade": "CRISÓPOLIS",
+        "latitude": -11.5128084,
+        "longitude": -38.1490183
+    },
+    {
+        "codigoIBGE": 2909802,
+        "localidade": "CRUZ DAS ALMAS",
+        "latitude": -12.6735557,
+        "longitude": -39.1016848
+    },
+    {
+        "codigoIBGE": 2909901,
+        "localidade": "CURAÇÁ",
+        "latitude": -8.9916568,
+        "longitude": -39.905835
+    },
+    {
+        "codigoIBGE": 2906709,
+        "localidade": "CÂNDIDO SALES",
+        "latitude": -15.5053528,
+        "longitude": -41.2352523
+    },
+    {
+        "codigoIBGE": 2907806,
+        "localidade": "CÍCERO DANTAS",
+        "latitude": -10.5904779,
+        "longitude": -38.3796947
+    },
+    {
+        "codigoIBGE": 2910057,
+        "localidade": "DIAS D'ÁVILA",
+        "latitude": -12.6191964,
+        "longitude": -38.2929948
+    },
+    {
+        "codigoIBGE": 2910107,
+        "localidade": "DOM BASÍLIO",
+        "latitude": -13.7601267,
+        "longitude": -41.7718862
+    },
+    {
+        "codigoIBGE": 2910206,
+        "localidade": "DOM MACEDO COSTA",
+        "latitude": -12.9048752,
+        "longitude": -39.1946717
+    },
+    {
+        "codigoIBGE": 2910008,
+        "localidade": "DÁRIO MEIRA",
+        "latitude": -14.4325021,
+        "longitude": -39.9037702
+    },
+    {
+        "codigoIBGE": 2910305,
+        "localidade": "ELÍSIO MEDRADO",
+        "latitude": -12.9466133,
+        "longitude": -39.5233396
+    },
+    {
+        "codigoIBGE": 2910404,
+        "localidade": "ENCRUZILHADA",
+        "latitude": -15.5306298,
+        "longitude": -40.9128094
+    },
+    {
+        "codigoIBGE": 2910503,
+        "localidade": "ENTRE RIOS",
+        "latitude": -11.9441553,
+        "longitude": -38.0841739
+    },
+    {
+        "codigoIBGE": 2910602,
+        "localidade": "ESPLANADA",
+        "latitude": -11.7956851,
+        "longitude": -37.9447996
+    },
+    {
+        "codigoIBGE": 2910701,
+        "localidade": "EUCLIDES DA CUNHA",
+        "latitude": -10.5087813,
+        "longitude": -39.0138034
+    },
+    {
+        "codigoIBGE": 2910727,
+        "localidade": "EUNÁPOLIS",
+        "latitude": -16.3719674,
+        "longitude": -39.5824893
+    },
+    {
+        "codigoIBGE": 2910776,
+        "localidade": "FEIRA DA MATA",
+        "latitude": -14.2080795,
+        "longitude": -44.2809508
+    },
+    {
+        "codigoIBGE": 2910800,
+        "localidade": "FEIRA DE SANTANA",
+        "latitude": -12.2535848,
+        "longitude": -38.9600762
+    },
+    {
+        "codigoIBGE": 2910859,
+        "localidade": "FILADÉLFIA",
+        "latitude": -10.7427581,
+        "longitude": -40.1312587
+    },
+    {
+        "codigoIBGE": 2910909,
+        "localidade": "FIRMINO ALVES",
+        "latitude": -14.9827939,
+        "longitude": -39.9272268
+    },
+    {
+        "codigoIBGE": 2911006,
+        "localidade": "FLORESTA AZUL",
+        "latitude": -14.8633936,
+        "longitude": -39.6582422
+    },
+    {
+        "codigoIBGE": 2911105,
+        "localidade": "FORMOSA DO RIO PRETO",
+        "latitude": -11.041162,
+        "longitude": -45.190695
+    },
+    {
+        "codigoIBGE": 2910750,
+        "localidade": "FÁTIMA",
+        "latitude": -10.6164453,
+        "longitude": -38.2242377
+    },
+    {
+        "codigoIBGE": 2911204,
+        "localidade": "GANDU",
+        "latitude": -13.7440757,
+        "longitude": -39.484901
+    },
+    {
+        "codigoIBGE": 2911253,
+        "localidade": "GAVIÃO",
+        "latitude": -11.4716362,
+        "longitude": -39.7819001
+    },
+    {
+        "codigoIBGE": 2911303,
+        "localidade": "GENTIO DO OURO",
+        "latitude": -11.4285981,
+        "longitude": -42.5048616
+    },
+    {
+        "codigoIBGE": 2911402,
+        "localidade": "GLÓRIA",
+        "latitude": -9.3445917,
+        "longitude": -38.2544317
+    },
+    {
+        "codigoIBGE": 2911501,
+        "localidade": "GONGOGI",
+        "latitude": -14.32554,
+        "longitude": -39.4671619
+    },
+    {
+        "codigoIBGE": 2911600,
+        "localidade": "GOVERNADOR MANGABEIRA",
+        "latitude": -12.600106,
+        "longitude": -39.0413807
+    },
+    {
+        "codigoIBGE": 2911659,
+        "localidade": "GUAJERU",
+        "latitude": -14.547196,
+        "longitude": -41.9374432
+    },
+    {
+        "codigoIBGE": 2911709,
+        "localidade": "GUANAMBI",
+        "latitude": -14.2193381,
+        "longitude": -42.7796907
+    },
+    {
+        "codigoIBGE": 2911808,
+        "localidade": "GUARATINGA",
+        "latitude": -16.5858728,
+        "longitude": -39.7848002
+    },
+    {
+        "codigoIBGE": 2911857,
+        "localidade": "HELIÓPOLIS",
+        "latitude": -10.6793131,
+        "longitude": -38.2822178
+    },
+    {
+        "codigoIBGE": 2911907,
+        "localidade": "IAÇU",
+        "latitude": -12.7670819,
+        "longitude": -40.2059758
+    },
+    {
+        "codigoIBGE": 2912004,
+        "localidade": "IBIASSUCÊ",
+        "latitude": -14.2716549,
+        "longitude": -42.2572725
+    },
+    {
+        "codigoIBGE": 2912103,
+        "localidade": "IBICARAÍ",
+        "latitude": -14.8619743,
+        "longitude": -39.5872694
+    },
+    {
+        "codigoIBGE": 2912202,
+        "localidade": "IBICOARA",
+        "latitude": -13.4136556,
+        "longitude": -41.284438
+    },
+    {
+        "codigoIBGE": 2912301,
+        "localidade": "IBICUÍ",
+        "latitude": -14.8433209,
+        "longitude": -39.9859037
+    },
+    {
+        "codigoIBGE": 2912400,
+        "localidade": "IBIPEBA",
+        "latitude": -11.6435262,
+        "longitude": -42.010549
+    },
+    {
+        "codigoIBGE": 2912509,
+        "localidade": "IBIPITANGA",
+        "latitude": -12.8808773,
+        "longitude": -42.4859544
+    },
+    {
+        "codigoIBGE": 2912608,
+        "localidade": "IBIQUERA",
+        "latitude": -12.6457544,
+        "longitude": -40.9333037
+    },
+    {
+        "codigoIBGE": 2912707,
+        "localidade": "IBIRAPITANGA",
+        "latitude": -14.1653534,
+        "longitude": -39.3790986
+    },
+    {
+        "codigoIBGE": 2912806,
+        "localidade": "IBIRAPUÃ",
+        "latitude": -17.6882538,
+        "longitude": -40.111832
+    },
+    {
+        "codigoIBGE": 2912905,
+        "localidade": "IBIRATAIA",
+        "latitude": -14.066667,
+        "longitude": -39.6417906
+    },
+    {
+        "codigoIBGE": 2913002,
+        "localidade": "IBITIARA",
+        "latitude": -12.6515435,
+        "longitude": -42.2159574
+    },
+    {
+        "codigoIBGE": 2913101,
+        "localidade": "IBITITÁ",
+        "latitude": -11.5469285,
+        "longitude": -41.9762653
+    },
+    {
+        "codigoIBGE": 2913200,
+        "localidade": "IBOTIRAMA",
+        "latitude": -12.178205,
+        "longitude": -43.2180949
+    },
+    {
+        "codigoIBGE": 2913309,
+        "localidade": "ICHU",
+        "latitude": -11.7467571,
+        "longitude": -39.1900635
+    },
+    {
+        "codigoIBGE": 2913408,
+        "localidade": "IGAPORÃ",
+        "latitude": -13.7744728,
+        "longitude": -42.7158977
+    },
+    {
+        "codigoIBGE": 2913457,
+        "localidade": "IGRAPIÚNA",
+        "latitude": -13.8299966,
+        "longitude": -39.136488
+    },
+    {
+        "codigoIBGE": 2913507,
+        "localidade": "IGUAÍ",
+        "latitude": -14.7532121,
+        "longitude": -40.0897858
+    },
+    {
+        "codigoIBGE": 2913606,
+        "localidade": "ILHÉUS",
+        "latitude": -14.7935051,
+        "longitude": -39.0463797
+    },
+    {
+        "codigoIBGE": 2913705,
+        "localidade": "INHAMBUPE",
+        "latitude": -11.7910581,
+        "longitude": -38.3562553
+    },
+    {
+        "codigoIBGE": 2913804,
+        "localidade": "IPECAETÁ",
+        "latitude": -12.3158272,
+        "longitude": -39.3069709
+    },
+    {
+        "codigoIBGE": 2913903,
+        "localidade": "IPIAÚ",
+        "latitude": -14.1349424,
+        "longitude": -39.7385835
+    },
+    {
+        "codigoIBGE": 2914000,
+        "localidade": "IPIRÁ",
+        "latitude": -12.1580127,
+        "longitude": -39.7366309
+    },
+    {
+        "codigoIBGE": 2914109,
+        "localidade": "IPUPIARA",
+        "latitude": -11.82035,
+        "longitude": -42.6100252
+    },
+    {
+        "codigoIBGE": 2914208,
+        "localidade": "IRAJUBA",
+        "latitude": -13.2567793,
+        "longitude": -40.0851864
+    },
+    {
+        "codigoIBGE": 2914307,
+        "localidade": "IRAMAIA",
+        "latitude": -13.2906333,
+        "longitude": -40.959845
+    },
+    {
+        "codigoIBGE": 2914406,
+        "localidade": "IRAQUARA",
+        "latitude": -12.2441186,
+        "longitude": -41.6185991
+    },
+    {
+        "codigoIBGE": 2914505,
+        "localidade": "IRARÁ",
+        "latitude": -12.0459549,
+        "longitude": -38.7659919
+    },
+    {
+        "codigoIBGE": 2914604,
+        "localidade": "IRECÊ",
+        "latitude": -11.3034012,
+        "longitude": -41.8557693
+    },
+    {
+        "codigoIBGE": 2914653,
+        "localidade": "ITABELA",
+        "latitude": -16.5766594,
+        "longitude": -39.5580624
+    },
+    {
+        "codigoIBGE": 2914703,
+        "localidade": "ITABERABA",
+        "latitude": -12.5245795,
+        "longitude": -40.3062038
+    },
+    {
+        "codigoIBGE": 2914802,
+        "localidade": "ITABUNA",
+        "latitude": -14.7916229,
+        "longitude": -39.2833243
+    },
+    {
+        "codigoIBGE": 2914901,
+        "localidade": "ITACARÉ",
+        "latitude": -14.2801402,
+        "longitude": -38.9946293
+    },
+    {
+        "codigoIBGE": 2915007,
+        "localidade": "ITAETÉ",
+        "latitude": -12.9835662,
+        "longitude": -40.9681136
+    },
+    {
+        "codigoIBGE": 2915106,
+        "localidade": "ITAGI",
+        "latitude": -14.1625612,
+        "longitude": -40.008339
+    },
+    {
+        "codigoIBGE": 2915205,
+        "localidade": "ITAGIBÁ",
+        "latitude": -14.2882834,
+        "longitude": -39.8452568
+    },
+    {
+        "codigoIBGE": 2915304,
+        "localidade": "ITAGIMIRIM",
+        "latitude": -16.0823865,
+        "longitude": -39.613684
+    },
+    {
+        "codigoIBGE": 2915353,
+        "localidade": "ITAGUAÇU DA BAHIA",
+        "latitude": -11.0151021,
+        "longitude": -42.400054
+    },
+    {
+        "codigoIBGE": 2915403,
+        "localidade": "ITAJU DO COLÔNIA",
+        "latitude": -15.1442259,
+        "longitude": -39.7236003
+    },
+    {
+        "codigoIBGE": 2915502,
+        "localidade": "ITAJUÍPE",
+        "latitude": -14.6756933,
+        "longitude": -39.3724916
+    },
+    {
+        "codigoIBGE": 2915601,
+        "localidade": "ITAMARAJU",
+        "latitude": -17.0388822,
+        "longitude": -39.5296848
+    },
+    {
+        "codigoIBGE": 2915700,
+        "localidade": "ITAMARI",
+        "latitude": -13.7786444,
+        "longitude": -39.6833227
+    },
+    {
+        "codigoIBGE": 2915809,
+        "localidade": "ITAMBÉ",
+        "latitude": -15.251599,
+        "longitude": -40.6239038
+    },
+    {
+        "codigoIBGE": 2915908,
+        "localidade": "ITANAGRA",
+        "latitude": -12.2618793,
+        "longitude": -38.0439421
+    },
+    {
+        "codigoIBGE": 2916005,
+        "localidade": "ITANHÉM",
+        "latitude": -17.16468,
+        "longitude": -40.3325144
+    },
+    {
+        "codigoIBGE": 2916104,
+        "localidade": "ITAPARICA",
+        "latitude": -12.9001833,
+        "longitude": -38.6730563
+    },
+    {
+        "codigoIBGE": 2916302,
+        "localidade": "ITAPEBI",
+        "latitude": -15.9692512,
+        "longitude": -39.5321238
+    },
+    {
+        "codigoIBGE": 2916401,
+        "localidade": "ITAPETINGA",
+        "latitude": -15.2475119,
+        "longitude": -40.2509918
+    },
+    {
+        "codigoIBGE": 2916500,
+        "localidade": "ITAPICURU",
+        "latitude": -11.3092733,
+        "longitude": -38.2265765
+    },
+    {
+        "codigoIBGE": 2916609,
+        "localidade": "ITAPITANGA",
+        "latitude": -14.4143888,
+        "longitude": -39.5660177
+    },
+    {
+        "codigoIBGE": 2916203,
+        "localidade": "ITAPÉ",
+        "latitude": -14.8967981,
+        "longitude": -39.4237967
+    },
+    {
+        "codigoIBGE": 2916708,
+        "localidade": "ITAQUARA",
+        "latitude": -13.4463398,
+        "longitude": -39.9381323
+    },
+    {
+        "codigoIBGE": 2916807,
+        "localidade": "ITARANTIM",
+        "latitude": -15.6532829,
+        "longitude": -40.0653302
+    },
+    {
+        "codigoIBGE": 2916856,
+        "localidade": "ITATIM",
+        "latitude": -12.707953,
+        "longitude": -39.6966624
+    },
+    {
+        "codigoIBGE": 2916906,
+        "localidade": "ITIRUÇU",
+        "latitude": -13.5294931,
+        "longitude": -40.1475534
+    },
+    {
+        "codigoIBGE": 2917003,
+        "localidade": "ITIÚBA",
+        "latitude": -10.6902297,
+        "longitude": -39.8556824
+    },
+    {
+        "codigoIBGE": 2917102,
+        "localidade": "ITORORÓ",
+        "latitude": -15.1164355,
+        "longitude": -40.0639725
+    },
+    {
+        "codigoIBGE": 2917201,
+        "localidade": "ITUAÇU",
+        "latitude": -13.8111012,
+        "longitude": -41.3006618
+    },
+    {
+        "codigoIBGE": 2917300,
+        "localidade": "ITUBERÁ",
+        "latitude": -13.7360329,
+        "longitude": -39.1465637
+    },
+    {
+        "codigoIBGE": 2917334,
+        "localidade": "IUIU",
+        "latitude": -14.4114905,
+        "longitude": -43.5524954
+    },
+    {
+        "codigoIBGE": 2917359,
+        "localidade": "JABORANDI",
+        "latitude": -13.607526,
+        "longitude": -44.4259407
+    },
+    {
+        "codigoIBGE": 2917409,
+        "localidade": "JACARACI",
+        "latitude": -14.8443302,
+        "longitude": -42.4321255
+    },
+    {
+        "codigoIBGE": 2917508,
+        "localidade": "JACOBINA",
+        "latitude": -11.1816506,
+        "longitude": -40.5120603
+    },
+    {
+        "codigoIBGE": 2917607,
+        "localidade": "JAGUAQUARA",
+        "latitude": -13.5281974,
+        "longitude": -39.9695429
+    },
+    {
+        "codigoIBGE": 2917706,
+        "localidade": "JAGUARARI",
+        "latitude": -10.257993,
+        "longitude": -40.1945297
+    },
+    {
+        "codigoIBGE": 2917805,
+        "localidade": "JAGUARIPE",
+        "latitude": -13.1148114,
+        "longitude": -38.8929609
+    },
+    {
+        "codigoIBGE": 2917904,
+        "localidade": "JANDAÍRA",
+        "latitude": -11.5620536,
+        "longitude": -37.7856179
+    },
+    {
+        "codigoIBGE": 2918001,
+        "localidade": "JEQUIÉ",
+        "latitude": -13.8590592,
+        "longitude": -40.0837763
+    },
+    {
+        "codigoIBGE": 2918100,
+        "localidade": "JEREMOABO",
+        "latitude": -10.0689081,
+        "longitude": -38.3474442
+    },
+    {
+        "codigoIBGE": 2918209,
+        "localidade": "JIQUIRIÇÁ",
+        "latitude": -13.2625501,
+        "longitude": -39.574012
+    },
+    {
+        "codigoIBGE": 2918308,
+        "localidade": "JITAÚNA",
+        "latitude": -14.0137919,
+        "longitude": -39.8920026
+    },
+    {
+        "codigoIBGE": 2918357,
+        "localidade": "JOÃO DOURADO",
+        "latitude": -11.3490753,
+        "longitude": -41.6551762
+    },
+    {
+        "codigoIBGE": 2918407,
+        "localidade": "JUAZEIRO",
+        "latitude": -9.4312697,
+        "longitude": -40.5078709
+    },
+    {
+        "codigoIBGE": 2918456,
+        "localidade": "JUCURUÇU",
+        "latitude": -16.866667,
+        "longitude": -39.9166669
+    },
+    {
+        "codigoIBGE": 2918506,
+        "localidade": "JUSSARA",
+        "latitude": -11.0435149,
+        "longitude": -41.9706145
+    },
+    {
+        "codigoIBGE": 2918555,
+        "localidade": "JUSSARI",
+        "latitude": -15.1880343,
+        "longitude": -39.4941705
+    },
+    {
+        "codigoIBGE": 2918605,
+        "localidade": "JUSSIAPE",
+        "latitude": -13.5155473,
+        "longitude": -41.5929756
+    },
+    {
+        "codigoIBGE": 2918704,
+        "localidade": "LAFAIETE COUTINHO",
+        "latitude": -13.6566183,
+        "longitude": -40.2129046
+    },
+    {
+        "codigoIBGE": 2918753,
+        "localidade": "LAGOA REAL",
+        "latitude": -14.0349869,
+        "longitude": -42.1426758
+    },
+    {
+        "codigoIBGE": 2918803,
+        "localidade": "LAJE",
+        "latitude": -13.1677757,
+        "longitude": -39.4216245
+    },
+    {
+        "codigoIBGE": 2919009,
+        "localidade": "LAJEDINHO",
+        "latitude": -12.3533301,
+        "longitude": -40.9051242
+    },
+    {
+        "codigoIBGE": 2919058,
+        "localidade": "LAJEDO DO TABOCAL",
+        "latitude": -13.4754503,
+        "longitude": -40.2242566
+    },
+    {
+        "codigoIBGE": 2918902,
+        "localidade": "LAJEDÃO",
+        "latitude": -17.6090277,
+        "longitude": -40.3448886
+    },
+    {
+        "codigoIBGE": 2919108,
+        "localidade": "LAMARÃO",
+        "latitude": -11.7937538,
+        "longitude": -38.8834043
+    },
+    {
+        "codigoIBGE": 2919157,
+        "localidade": "LAPÃO",
+        "latitude": -11.3825748,
+        "longitude": -41.8292526
+    },
+    {
+        "codigoIBGE": 2919207,
+        "localidade": "LAURO DE FREITAS",
+        "latitude": -12.8820575,
+        "longitude": -38.3148204
+    },
+    {
+        "codigoIBGE": 2919306,
+        "localidade": "LENÇÓIS",
+        "latitude": -12.5617279,
+        "longitude": -41.3898761
+    },
+    {
+        "codigoIBGE": 2919405,
+        "localidade": "LICÍNIO DE ALMEIDA",
+        "latitude": -14.6825242,
+        "longitude": -42.5050773
+    },
+    {
+        "codigoIBGE": 2919504,
+        "localidade": "LIVRAMENTO DE NOSSA SENHORA",
+        "latitude": -13.6421285,
+        "longitude": -41.84116
+    },
+    {
+        "codigoIBGE": 2919553,
+        "localidade": "LUÍS EDUARDO MAGALHÃES",
+        "latitude": -12.0904542,
+        "longitude": -45.7805375
+    },
+    {
+        "codigoIBGE": 2919603,
+        "localidade": "MACAJUBA",
+        "latitude": -12.1405458,
+        "longitude": -40.3607576
+    },
+    {
+        "codigoIBGE": 2919702,
+        "localidade": "MACARANI",
+        "latitude": -15.5650257,
+        "longitude": -40.4212612
+    },
+    {
+        "codigoIBGE": 2919801,
+        "localidade": "MACAÚBAS",
+        "latitude": -13.017313,
+        "longitude": -42.6870565
+    },
+    {
+        "codigoIBGE": 2919900,
+        "localidade": "MACURURÉ",
+        "latitude": -9.1626788,
+        "longitude": -39.0521363
+    },
+    {
+        "codigoIBGE": 2919926,
+        "localidade": "MADRE DE DEUS",
+        "latitude": -12.7439601,
+        "longitude": -38.6168111
+    },
+    {
+        "codigoIBGE": 2919959,
+        "localidade": "MAETINGA",
+        "latitude": -14.6627903,
+        "longitude": -41.4918407
+    },
+    {
+        "codigoIBGE": 2920007,
+        "localidade": "MAIQUINIQUE",
+        "latitude": -15.6244485,
+        "longitude": -40.2590938
+    },
+    {
+        "codigoIBGE": 2920106,
+        "localidade": "MAIRI",
+        "latitude": -11.7147456,
+        "longitude": -40.1495289
+    },
+    {
+        "codigoIBGE": 2920205,
+        "localidade": "MALHADA",
+        "latitude": -14.3375835,
+        "longitude": -43.7690335
+    },
+    {
+        "codigoIBGE": 2920304,
+        "localidade": "MALHADA DE PEDRAS",
+        "latitude": -14.3849555,
+        "longitude": -41.8801127
+    },
+    {
+        "codigoIBGE": 2920403,
+        "localidade": "MANOEL VITORINO",
+        "latitude": -14.148071,
+        "longitude": -40.2402642
+    },
+    {
+        "codigoIBGE": 2920452,
+        "localidade": "MANSIDÃO",
+        "latitude": -10.7203864,
+        "longitude": -44.0363793
+    },
+    {
+        "codigoIBGE": 2920502,
+        "localidade": "MARACÁS",
+        "latitude": -13.435917,
+        "longitude": -40.4327027
+    },
+    {
+        "codigoIBGE": 2920601,
+        "localidade": "MARAGOGIPE",
+        "latitude": -12.7772947,
+        "longitude": -38.9211272
+    },
+    {
+        "codigoIBGE": 2920700,
+        "localidade": "MARAÚ",
+        "latitude": -14.1039544,
+        "longitude": -39.0153007
+    },
+    {
+        "codigoIBGE": 2920809,
+        "localidade": "MARCIONÍLIO SOUZA",
+        "latitude": -13.0043157,
+        "longitude": -40.5318313
+    },
+    {
+        "codigoIBGE": 2920908,
+        "localidade": "MASCOTE",
+        "latitude": -15.5660341,
+        "longitude": -39.3033171
+    },
+    {
+        "codigoIBGE": 2921005,
+        "localidade": "MATA DE SÃO JOÃO",
+        "latitude": -12.5311228,
+        "longitude": -38.3012471
+    },
+    {
+        "codigoIBGE": 2921054,
+        "localidade": "MATINA",
+        "latitude": -13.9113654,
+        "longitude": -42.844305
+    },
+    {
+        "codigoIBGE": 2921104,
+        "localidade": "MEDEIROS NETO",
+        "latitude": -17.3711865,
+        "longitude": -40.2243916
+    },
+    {
+        "codigoIBGE": 2921203,
+        "localidade": "MIGUEL CALMON",
+        "latitude": -11.4287018,
+        "longitude": -40.5947958
+    },
+    {
+        "codigoIBGE": 2921302,
+        "localidade": "MILAGRES",
+        "latitude": -12.8659041,
+        "longitude": -39.8609304
+    },
+    {
+        "codigoIBGE": 2921401,
+        "localidade": "MIRANGABA",
+        "latitude": -10.9544783,
+        "longitude": -40.5760289
+    },
+    {
+        "codigoIBGE": 2921450,
+        "localidade": "MIRANTE",
+        "latitude": -14.2389228,
+        "longitude": -40.7721729
+    },
+    {
+        "codigoIBGE": 2921500,
+        "localidade": "MONTE SANTO",
+        "latitude": -10.438662,
+        "longitude": -39.3330248
+    },
+    {
+        "codigoIBGE": 2921609,
+        "localidade": "MORPARÁ",
+        "latitude": -11.5573246,
+        "longitude": -43.276957
+    },
+    {
+        "codigoIBGE": 2921708,
+        "localidade": "MORRO DO CHAPÉU",
+        "latitude": -11.5493448,
+        "longitude": -41.1561278
+    },
+    {
+        "codigoIBGE": 2921807,
+        "localidade": "MORTUGABA",
+        "latitude": -15.0226229,
+        "longitude": -42.3688629
+    },
+    {
+        "codigoIBGE": 2921906,
+        "localidade": "MUCUGÊ",
+        "latitude": -13.0088285,
+        "longitude": -41.3711799
+    },
+    {
+        "codigoIBGE": 2922003,
+        "localidade": "MUCURI",
+        "latitude": -18.0833977,
+        "longitude": -39.5499731
+    },
+    {
+        "codigoIBGE": 2922052,
+        "localidade": "MULUNGU DO MORRO",
+        "latitude": -11.9652134,
+        "longitude": -41.6377298
+    },
+    {
+        "codigoIBGE": 2922102,
+        "localidade": "MUNDO NOVO",
+        "latitude": -11.8545183,
+        "longitude": -40.4717578
+    },
+    {
+        "codigoIBGE": 2922201,
+        "localidade": "MUNIZ FERREIRA",
+        "latitude": -13.009675,
+        "longitude": -39.1096045
+    },
+    {
+        "codigoIBGE": 2922250,
+        "localidade": "MUQUÉM DO SÃO FRANCISCO",
+        "latitude": -12.1990786,
+        "longitude": -43.6766675
+    },
+    {
+        "codigoIBGE": 2922300,
+        "localidade": "MURITIBA",
+        "latitude": -12.6225965,
+        "longitude": -38.9926313
+    },
+    {
+        "codigoIBGE": 2922409,
+        "localidade": "MUTUÍPE",
+        "latitude": -13.2288403,
+        "longitude": -39.5047077
+    },
+    {
+        "codigoIBGE": 2922508,
+        "localidade": "NAZARÉ",
+        "latitude": -13.0399395,
+        "longitude": -39.0033989
+    },
+    {
+        "codigoIBGE": 2922607,
+        "localidade": "NILO PEÇANHA",
+        "latitude": -13.6044441,
+        "longitude": -39.1094693
+    },
+    {
+        "codigoIBGE": 2922656,
+        "localidade": "NORDESTINA",
+        "latitude": -10.8247619,
+        "longitude": -39.4297427
+    },
+    {
+        "codigoIBGE": 2922706,
+        "localidade": "NOVA CANAÃ",
+        "latitude": -14.7945247,
+        "longitude": -40.1458048
+    },
+    {
+        "codigoIBGE": 2922730,
+        "localidade": "NOVA FÁTIMA",
+        "latitude": -11.6075715,
+        "longitude": -39.6296436
+    },
+    {
+        "codigoIBGE": 2922755,
+        "localidade": "NOVA IBIÁ",
+        "latitude": -13.8124477,
+        "longitude": -39.6185372
+    },
+    {
+        "codigoIBGE": 2922805,
+        "localidade": "NOVA ITARANA",
+        "latitude": -13.0245018,
+        "longitude": -40.0656329
+    },
+    {
+        "codigoIBGE": 2922854,
+        "localidade": "NOVA REDENÇÃO",
+        "latitude": -12.815445,
+        "longitude": -41.0751593
+    },
+    {
+        "codigoIBGE": 2922904,
+        "localidade": "NOVA SOURE",
+        "latitude": -11.2368101,
+        "longitude": -38.4816265
+    },
+    {
+        "codigoIBGE": 2923001,
+        "localidade": "NOVA VIÇOSA",
+        "latitude": -17.9008502,
+        "longitude": -39.371702
+    },
+    {
+        "codigoIBGE": 2923035,
+        "localidade": "NOVO HORIZONTE",
+        "latitude": -12.8087604,
+        "longitude": -42.1685556
+    },
+    {
+        "codigoIBGE": 2923050,
+        "localidade": "NOVO TRIUNFO",
+        "latitude": -10.3186649,
+        "longitude": -38.4017219
+    },
+    {
+        "codigoIBGE": 2923100,
+        "localidade": "OLINDINA",
+        "latitude": -11.3618504,
+        "longitude": -38.3292234
+    },
+    {
+        "codigoIBGE": 2923209,
+        "localidade": "OLIVEIRA DOS BREJINHOS",
+        "latitude": -12.318689,
+        "longitude": -42.8911807
+    },
+    {
+        "codigoIBGE": 2923308,
+        "localidade": "OURIÇANGAS",
+        "latitude": -12.0141706,
+        "longitude": -38.6280749
+    },
+    {
+        "codigoIBGE": 2923357,
+        "localidade": "OUROLÂNDIA",
+        "latitude": -10.9582794,
+        "longitude": -41.0759478
+    },
+    {
+        "codigoIBGE": 2923407,
+        "localidade": "PALMAS DE MONTE ALTO",
+        "latitude": -14.2680122,
+        "longitude": -43.1612543
+    },
+    {
+        "codigoIBGE": 2923506,
+        "localidade": "PALMEIRAS",
+        "latitude": -12.5063062,
+        "longitude": -41.5812642
+    },
+    {
+        "codigoIBGE": 2923605,
+        "localidade": "PARAMIRIM",
+        "latitude": -13.4392953,
+        "longitude": -42.2398872
+    },
+    {
+        "codigoIBGE": 2923704,
+        "localidade": "PARATINGA",
+        "latitude": -12.6932095,
+        "longitude": -43.1843294
+    },
+    {
+        "codigoIBGE": 2923803,
+        "localidade": "PARIPIRANGA",
+        "latitude": -10.6863183,
+        "longitude": -37.8629045
+    },
+    {
+        "codigoIBGE": 2923902,
+        "localidade": "PAU BRASIL",
+        "latitude": -15.4625471,
+        "longitude": -39.6530327
+    },
+    {
+        "codigoIBGE": 2924009,
+        "localidade": "PAULO AFONSO",
+        "latitude": -9.4061251,
+        "longitude": -38.2163717
+    },
+    {
+        "codigoIBGE": 2924207,
+        "localidade": "PEDRO ALEXANDRE",
+        "latitude": -10.0124333,
+        "longitude": -37.8935211
+    },
+    {
+        "codigoIBGE": 2924108,
+        "localidade": "PEDRÃO",
+        "latitude": -12.146403,
+        "longitude": -38.6449255
+    },
+    {
+        "codigoIBGE": 2924306,
+        "localidade": "PIATÃ",
+        "latitude": -13.1509374,
+        "longitude": -41.7757215
+    },
+    {
+        "codigoIBGE": 2924405,
+        "localidade": "PILÃO ARCADO",
+        "latitude": -10.0055022,
+        "longitude": -42.4939896
+    },
+    {
+        "codigoIBGE": 2924504,
+        "localidade": "PINDAÍ",
+        "latitude": -14.4924422,
+        "longitude": -42.6862009
+    },
+    {
+        "codigoIBGE": 2924603,
+        "localidade": "PINDOBAÇU",
+        "latitude": -10.7437688,
+        "longitude": -40.3678375
+    },
+    {
+        "codigoIBGE": 2924652,
+        "localidade": "PINTADAS",
+        "latitude": -11.8127722,
+        "longitude": -39.9078934
+    },
+    {
+        "codigoIBGE": 2924678,
+        "localidade": "PIRAÍ DO NORTE",
+        "latitude": -13.7594147,
+        "longitude": -39.3839531
+    },
+    {
+        "codigoIBGE": 2924702,
+        "localidade": "PIRIPÁ",
+        "latitude": -14.9716164,
+        "longitude": -41.7208243
+    },
+    {
+        "codigoIBGE": 2924801,
+        "localidade": "PIRITIBA",
+        "latitude": -11.7294518,
+        "longitude": -40.5550799
+    },
+    {
+        "codigoIBGE": 2924900,
+        "localidade": "PLANALTINO",
+        "latitude": -13.262237,
+        "longitude": -40.3698878
+    },
+    {
+        "codigoIBGE": 2925006,
+        "localidade": "PLANALTO",
+        "latitude": -14.6690712,
+        "longitude": -40.4771881
+    },
+    {
+        "codigoIBGE": 2925204,
+        "localidade": "POJUCA",
+        "latitude": -12.4308263,
+        "longitude": -38.3281873
+    },
+    {
+        "codigoIBGE": 2925253,
+        "localidade": "PONTO NOVO",
+        "latitude": -10.8657318,
+        "longitude": -40.1315076
+    },
+    {
+        "codigoIBGE": 2925303,
+        "localidade": "PORTO SEGURO",
+        "latitude": -16.4443537,
+        "longitude": -39.0653656
+    },
+    {
+        "codigoIBGE": 2925402,
+        "localidade": "POTIRAGUÁ",
+        "latitude": -15.5945627,
+        "longitude": -39.8734102
+    },
+    {
+        "codigoIBGE": 2925105,
+        "localidade": "POÇÕES",
+        "latitude": -14.5251647,
+        "longitude": -40.3647818
+    },
+    {
+        "codigoIBGE": 2925501,
+        "localidade": "PRADO",
+        "latitude": -17.3340784,
+        "longitude": -39.2250585
+    },
+    {
+        "codigoIBGE": 2925600,
+        "localidade": "PRESIDENTE DUTRA",
+        "latitude": -11.2927775,
+        "longitude": -41.9847209
+    },
+    {
+        "codigoIBGE": 2925709,
+        "localidade": "PRESIDENTE JÂNIO QUADROS",
+        "latitude": -14.6882517,
+        "longitude": -41.6803247
+    },
+    {
+        "codigoIBGE": 2925758,
+        "localidade": "PRESIDENTE TANCREDO NEVES",
+        "latitude": -13.4475146,
+        "longitude": -39.4206279
+    },
+    {
+        "codigoIBGE": 2924058,
+        "localidade": "PÉ DE SERRA",
+        "latitude": -11.8344742,
+        "longitude": -39.6109467
+    },
+    {
+        "codigoIBGE": 2925808,
+        "localidade": "QUEIMADAS",
+        "latitude": -10.9739942,
+        "longitude": -39.6297064
+    },
+    {
+        "codigoIBGE": 2925907,
+        "localidade": "QUIJINGUE",
+        "latitude": -10.7509511,
+        "longitude": -39.2140495
+    },
+    {
+        "codigoIBGE": 2925931,
+        "localidade": "QUIXABEIRA",
+        "latitude": -11.4100827,
+        "longitude": -40.1260733
+    },
+    {
+        "codigoIBGE": 2925956,
+        "localidade": "RAFAEL JAMBEIRO",
+        "latitude": -12.4057004,
+        "longitude": -39.5010181
+    },
+    {
+        "codigoIBGE": 2926004,
+        "localidade": "REMANSO",
+        "latitude": -9.6257013,
+        "longitude": -42.086128
+    },
+    {
+        "codigoIBGE": 2926103,
+        "localidade": "RETIROLÂNDIA",
+        "latitude": -11.4940942,
+        "longitude": -39.4256835
+    },
+    {
+        "codigoIBGE": 2926400,
+        "localidade": "RIACHO DE SANTANA",
+        "latitude": -13.6063873,
+        "longitude": -42.9400663
+    },
+    {
+        "codigoIBGE": 2926202,
+        "localidade": "RIACHÃO DAS NEVES",
+        "latitude": -11.7511866,
+        "longitude": -44.9146637
+    },
+    {
+        "codigoIBGE": 2926301,
+        "localidade": "RIACHÃO DO JACUÍPE",
+        "latitude": -11.8073632,
+        "longitude": -39.3809152
+    },
+    {
+        "codigoIBGE": 2926509,
+        "localidade": "RIBEIRA DO AMPARO",
+        "latitude": -11.0404632,
+        "longitude": -38.4310294
+    },
+    {
+        "codigoIBGE": 2926608,
+        "localidade": "RIBEIRA DO POMBAL",
+        "latitude": -10.8364886,
+        "longitude": -38.5439651
+    },
+    {
+        "codigoIBGE": 2926657,
+        "localidade": "RIBEIRÃO DO LARGO",
+        "latitude": -15.4514622,
+        "longitude": -40.7457206
+    },
+    {
+        "codigoIBGE": 2927002,
+        "localidade": "RIO REAL",
+        "latitude": -11.4818089,
+        "longitude": -37.9335882
+    },
+    {
+        "codigoIBGE": 2926707,
+        "localidade": "RIO DE CONTAS",
+        "latitude": -13.5858429,
+        "longitude": -41.8136324
+    },
+    {
+        "codigoIBGE": 2926806,
+        "localidade": "RIO DO ANTÔNIO",
+        "latitude": -14.41164,
+        "longitude": -42.0776964
+    },
+    {
+        "codigoIBGE": 2926905,
+        "localidade": "RIO DO PIRES",
+        "latitude": -13.1189742,
+        "longitude": -42.290551
+    },
+    {
+        "codigoIBGE": 2927101,
+        "localidade": "RODELAS",
+        "latitude": -8.8494929,
+        "longitude": -38.7679022
+    },
+    {
+        "codigoIBGE": 2927200,
+        "localidade": "RUY BARBOSA",
+        "latitude": -12.2837758,
+        "longitude": -40.4915946
+    },
+    {
+        "codigoIBGE": 2927309,
+        "localidade": "SALINAS DA MARGARIDA",
+        "latitude": -12.8763262,
+        "longitude": -38.7583728
+    },
+    {
+        "codigoIBGE": 2927408,
+        "localidade": "SALVADOR",
+        "latitude": -12.977749,
+        "longitude": -38.5016301
+    },
+    {
+        "codigoIBGE": 2927606,
+        "localidade": "SANTA BRÍGIDA",
+        "latitude": -9.7362638,
+        "longitude": -38.1283783
+    },
+    {
+        "codigoIBGE": 2927507,
+        "localidade": "SANTA BÁRBARA",
+        "latitude": -11.9540565,
+        "longitude": -38.9746327
+    },
+    {
+        "codigoIBGE": 2927705,
+        "localidade": "SANTA CRUZ CABRÁLIA",
+        "latitude": -16.2825282,
+        "longitude": -39.0236206
+    },
+    {
+        "codigoIBGE": 2927804,
+        "localidade": "SANTA CRUZ DA VITÓRIA",
+        "latitude": -14.964435,
+        "longitude": -39.8118698
+    },
+    {
+        "codigoIBGE": 2927903,
+        "localidade": "SANTA INÊS",
+        "latitude": -13.2899692,
+        "longitude": -39.8218719
+    },
+    {
+        "codigoIBGE": 2928059,
+        "localidade": "SANTA LUZIA",
+        "latitude": -15.4300831,
+        "longitude": -39.3319926
+    },
+    {
+        "codigoIBGE": 2928109,
+        "localidade": "SANTA MARIA DA VITÓRIA",
+        "latitude": -13.385508,
+        "longitude": -44.202014
+    },
+    {
+        "codigoIBGE": 2928406,
+        "localidade": "SANTA RITA DE CÁSSIA",
+        "latitude": -11.0013794,
+        "longitude": -44.5219787
+    },
+    {
+        "codigoIBGE": 2928505,
+        "localidade": "SANTA TEREZINHA",
+        "latitude": -12.7695758,
+        "longitude": -39.5204718
+    },
+    {
+        "codigoIBGE": 2928000,
+        "localidade": "SANTALUZ",
+        "latitude": -11.2544854,
+        "longitude": -39.3752039
+    },
+    {
+        "codigoIBGE": 2928208,
+        "localidade": "SANTANA",
+        "latitude": -12.9796577,
+        "longitude": -44.0510394
+    },
+    {
+        "codigoIBGE": 2928307,
+        "localidade": "SANTANÓPOLIS",
+        "latitude": -12.0255868,
+        "longitude": -38.8656077
+    },
+    {
+        "codigoIBGE": 2928604,
+        "localidade": "SANTO AMARO",
+        "latitude": -12.5464277,
+        "longitude": -38.7109578
+    },
+    {
+        "codigoIBGE": 2928703,
+        "localidade": "SANTO ANTÔNIO DE JESUS",
+        "latitude": -12.9698503,
+        "longitude": -39.2617368
+    },
+    {
+        "codigoIBGE": 2928802,
+        "localidade": "SANTO ESTÊVÃO",
+        "latitude": -12.4284443,
+        "longitude": -39.2509155
+    },
+    {
+        "codigoIBGE": 2929602,
+        "localidade": "SAPEAÇU",
+        "latitude": -12.72121,
+        "longitude": -39.1827838
+    },
+    {
+        "codigoIBGE": 2929750,
+        "localidade": "SAUBARA",
+        "latitude": -12.7391106,
+        "longitude": -38.7628271
+    },
+    {
+        "codigoIBGE": 2929800,
+        "localidade": "SAÚDE",
+        "latitude": -10.9411672,
+        "longitude": -40.4184806
+    },
+    {
+        "codigoIBGE": 2929909,
+        "localidade": "SEABRA",
+        "latitude": -12.4175067,
+        "longitude": -41.7692236
+    },
+    {
+        "codigoIBGE": 2930006,
+        "localidade": "SEBASTIÃO LARANJEIRAS",
+        "latitude": -14.5785405,
+        "longitude": -43.1359542
+    },
+    {
+        "codigoIBGE": 2930105,
+        "localidade": "SENHOR DO BONFIM",
+        "latitude": -10.4614397,
+        "longitude": -40.1867729
+    },
+    {
+        "codigoIBGE": 2930204,
+        "localidade": "SENTO SÉ",
+        "latitude": -9.7418,
+        "longitude": -41.8789401
+    },
+    {
+        "codigoIBGE": 2930303,
+        "localidade": "SERRA DOURADA",
+        "latitude": -12.7594434,
+        "longitude": -43.9508324
+    },
+    {
+        "codigoIBGE": 2930402,
+        "localidade": "SERRA PRETA",
+        "latitude": -12.1564809,
+        "longitude": -39.3308483
+    },
+    {
+        "codigoIBGE": 2930154,
+        "localidade": "SERRA DO RAMALHO",
+        "latitude": -13.5413338,
+        "longitude": -43.5774778
+    },
+    {
+        "codigoIBGE": 2930501,
+        "localidade": "SERRINHA",
+        "latitude": -11.662842,
+        "longitude": -39.0084965
+    },
+    {
+        "codigoIBGE": 2930600,
+        "localidade": "SERROLÂNDIA",
+        "latitude": -11.4176158,
+        "longitude": -40.2989318
+    },
+    {
+        "codigoIBGE": 2930709,
+        "localidade": "SIMÕES FILHO",
+        "latitude": -12.7862756,
+        "longitude": -38.402154
+    },
+    {
+        "codigoIBGE": 2930774,
+        "localidade": "SOBRADINHO",
+        "latitude": -9.4722997,
+        "longitude": -40.7994461
+    },
+    {
+        "codigoIBGE": 2930808,
+        "localidade": "SOUTO SOARES",
+        "latitude": -12.0880843,
+        "longitude": -41.6478049
+    },
+    {
+        "codigoIBGE": 2929701,
+        "localidade": "SÁTIRO DIAS",
+        "latitude": -11.5933669,
+        "longitude": -38.5941731
+    },
+    {
+        "codigoIBGE": 2928901,
+        "localidade": "SÃO DESIDÉRIO",
+        "latitude": -12.3576313,
+        "longitude": -44.9772871
+    },
+    {
+        "codigoIBGE": 2928950,
+        "localidade": "SÃO DOMINGOS",
+        "latitude": -11.464721,
+        "longitude": -39.5275967
+    },
+    {
+        "codigoIBGE": 2929107,
+        "localidade": "SÃO FELIPE",
+        "latitude": -12.8398859,
+        "longitude": -39.0896771
+    },
+    {
+        "codigoIBGE": 2929206,
+        "localidade": "SÃO FRANCISCO DO CONDE",
+        "latitude": -12.6271162,
+        "longitude": -38.6780522
+    },
+    {
+        "codigoIBGE": 2929008,
+        "localidade": "SÃO FÉLIX",
+        "latitude": -12.606091,
+        "longitude": -38.9707199
+    },
+    {
+        "codigoIBGE": 2929057,
+        "localidade": "SÃO FÉLIX DO CORIBE",
+        "latitude": -13.4057875,
+        "longitude": -44.1914269
+    },
+    {
+        "codigoIBGE": 2929255,
+        "localidade": "SÃO GABRIEL",
+        "latitude": -11.2178852,
+        "longitude": -41.884646
+    },
+    {
+        "codigoIBGE": 2929305,
+        "localidade": "SÃO GONÇALO DOS CAMPOS",
+        "latitude": -12.435021,
+        "longitude": -38.9507919
+    },
+    {
+        "codigoIBGE": 2929354,
+        "localidade": "SÃO JOSÉ DA VITÓRIA",
+        "latitude": -15.0791275,
+        "longitude": -39.3440478
+    },
+    {
+        "codigoIBGE": 2929370,
+        "localidade": "SÃO JOSÉ DO JACUÍPE",
+        "latitude": -11.4423895,
+        "longitude": -39.8784831
+    },
+    {
+        "codigoIBGE": 2929404,
+        "localidade": "SÃO MIGUEL DAS MATAS",
+        "latitude": -13.0438348,
+        "longitude": -39.4582045
+    },
+    {
+        "codigoIBGE": 2929503,
+        "localidade": "SÃO SEBASTIÃO DO PASSÉ",
+        "latitude": -12.5127094,
+        "longitude": -38.4908644
+    },
+    {
+        "codigoIBGE": 2930758,
+        "localidade": "SÍTIO DO MATO",
+        "latitude": -13.087324,
+        "longitude": -43.4675796
+    },
+    {
+        "codigoIBGE": 2930766,
+        "localidade": "SÍTIO DO QUINTO",
+        "latitude": -10.3651688,
+        "longitude": -38.2033808
+    },
+    {
+        "codigoIBGE": 2930907,
+        "localidade": "TABOCAS DO BREJO VELHO",
+        "latitude": -12.703073,
+        "longitude": -44.0078477
+    },
+    {
+        "codigoIBGE": 2931004,
+        "localidade": "TANHAÇU",
+        "latitude": -14.0201135,
+        "longitude": -41.2476486
+    },
+    {
+        "codigoIBGE": 2931053,
+        "localidade": "TANQUE NOVO",
+        "latitude": -13.5489556,
+        "longitude": -42.4937995
+    },
+    {
+        "codigoIBGE": 2931103,
+        "localidade": "TANQUINHO",
+        "latitude": -11.9684059,
+        "longitude": -39.1036681
+    },
+    {
+        "codigoIBGE": 2931202,
+        "localidade": "TAPEROÁ",
+        "latitude": -13.5325846,
+        "longitude": -39.1013063
+    },
+    {
+        "codigoIBGE": 2931301,
+        "localidade": "TAPIRAMUTÁ",
+        "latitude": -11.8479179,
+        "longitude": -40.7930265
+    },
+    {
+        "codigoIBGE": 2931350,
+        "localidade": "TEIXEIRA DE FREITAS",
+        "latitude": -17.5400307,
+        "longitude": -39.7421813
+    },
+    {
+        "codigoIBGE": 2931400,
+        "localidade": "TEODORO SAMPAIO",
+        "latitude": -12.2954417,
+        "longitude": -38.6350904
+    },
+    {
+        "codigoIBGE": 2931509,
+        "localidade": "TEOFILÂNDIA",
+        "latitude": -11.4820945,
+        "longitude": -38.9979049
+    },
+    {
+        "codigoIBGE": 2931608,
+        "localidade": "TEOLÂNDIA",
+        "latitude": -13.5900904,
+        "longitude": -39.4843477
+    },
+    {
+        "codigoIBGE": 2931707,
+        "localidade": "TERRA NOVA",
+        "latitude": -12.4041483,
+        "longitude": -38.6179647
+    },
+    {
+        "codigoIBGE": 2931806,
+        "localidade": "TREMEDAL",
+        "latitude": -14.9760639,
+        "longitude": -41.4127415
+    },
+    {
+        "codigoIBGE": 2931905,
+        "localidade": "TUCANO",
+        "latitude": -10.9620397,
+        "longitude": -38.7915112
+    },
+    {
+        "codigoIBGE": 2932002,
+        "localidade": "UAUÁ",
+        "latitude": -9.8336723,
+        "longitude": -39.4797528
+    },
+    {
+        "codigoIBGE": 2932200,
+        "localidade": "UBAITABA",
+        "latitude": -14.3087787,
+        "longitude": -39.322564
+    },
+    {
+        "codigoIBGE": 2932309,
+        "localidade": "UBATÃ",
+        "latitude": -14.2099791,
+        "longitude": -39.5249101
+    },
+    {
+        "codigoIBGE": 2932101,
+        "localidade": "UBAÍRA",
+        "latitude": -13.2693777,
+        "longitude": -39.6618906
+    },
+    {
+        "codigoIBGE": 2932408,
+        "localidade": "UIBAÍ",
+        "latitude": -11.3348553,
+        "longitude": -42.1310211
+    },
+    {
+        "codigoIBGE": 2932457,
+        "localidade": "UMBURANAS",
+        "latitude": -10.7322328,
+        "longitude": -41.3240453
+    },
+    {
+        "codigoIBGE": 2932507,
+        "localidade": "UNA",
+        "latitude": -15.2950393,
+        "longitude": -39.0761412
+    },
+    {
+        "codigoIBGE": 2932606,
+        "localidade": "URANDI",
+        "latitude": -14.7672073,
+        "longitude": -42.6571253
+    },
+    {
+        "codigoIBGE": 2932705,
+        "localidade": "URUÇUCA",
+        "latitude": -14.5967264,
+        "longitude": -39.2854465
+    },
+    {
+        "codigoIBGE": 2932804,
+        "localidade": "UTINGA",
+        "latitude": -12.0821043,
+        "longitude": -41.0971114
+    },
+    {
+        "codigoIBGE": 2933000,
+        "localidade": "VALENTE",
+        "latitude": -11.4080892,
+        "longitude": -39.4589976
+    },
+    {
+        "codigoIBGE": 2932903,
+        "localidade": "VALENÇA",
+        "latitude": -13.370017,
+        "longitude": -39.0720559
+    },
+    {
+        "codigoIBGE": 2933174,
+        "localidade": "VARZEDO",
+        "latitude": -12.9710785,
+        "longitude": -39.3949401
+    },
+    {
+        "codigoIBGE": 2933208,
+        "localidade": "VERA CRUZ",
+        "latitude": -12.957906,
+        "longitude": -38.6092828
+    },
+    {
+        "codigoIBGE": 2933257,
+        "localidade": "VEREDA",
+        "latitude": -17.2187297,
+        "longitude": -40.0977415
+    },
+    {
+        "codigoIBGE": 2933307,
+        "localidade": "VITÓRIA DA CONQUISTA",
+        "latitude": -14.8619237,
+        "longitude": -40.8445346
+    },
+    {
+        "codigoIBGE": 2933158,
+        "localidade": "VÁRZEA NOVA",
+        "latitude": -11.2561186,
+        "longitude": -40.943544
+    },
+    {
+        "codigoIBGE": 2933059,
+        "localidade": "VÁRZEA DA ROÇA",
+        "latitude": -11.6081114,
+        "longitude": -40.1363141
+    },
+    {
+        "codigoIBGE": 2933109,
+        "localidade": "VÁRZEA DO POÇO",
+        "latitude": -11.5277433,
+        "longitude": -40.315307
+    },
+    {
+        "codigoIBGE": 2933406,
+        "localidade": "WAGNER",
+        "latitude": -12.2823413,
+        "longitude": -41.1718504
+    },
+    {
+        "codigoIBGE": 2933455,
+        "localidade": "WANDERLEY",
+        "latitude": -12.1148104,
+        "longitude": -43.8961839
+    },
+    {
+        "codigoIBGE": 2933505,
+        "localidade": "WENCESLAU GUIMARÃES",
+        "latitude": -13.6912771,
+        "longitude": -39.4765398
+    },
+    {
+        "codigoIBGE": 2933604,
+        "localidade": "XIQUE-XIQUE",
+        "latitude": -10.8233884,
+        "longitude": -42.7249305
+    },
+    {
+        "codigoIBGE": 2900405,
+        "localidade": "ÁGUA FRIA",
+        "latitude": -11.8622765,
+        "longitude": -38.7642159
+    },
+    {
+        "codigoIBGE": 2900504,
+        "localidade": "ÉRICO CARDOSO",
+        "latitude": -13.4219134,
+        "longitude": -42.1355843
+    }
+]
