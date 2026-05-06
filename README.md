@@ -38,7 +38,7 @@
 
 Com ela você consulta produtos, combustíveis e sugestões de qualquer município baiano passando apenas o nome da cidade — as coordenadas são resolvidas automaticamente a partir de uma base local com os **417 municípios da Bahia**.
 
-- **Versão:** 1.0.0
+- **Versão:** 2.0.0
 - **Autor:** kdudev
 - **Licença:** MIT
 
